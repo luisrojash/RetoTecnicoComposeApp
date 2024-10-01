@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_no_access_to_internet_title">Sin acceso a internet</string>
+    <string name="msg_no_access_to_internet_description">Verifica tu conexión de red wifi o datos móviles.</string>
+    <string name="msg_try_again">Volver a intentar</string>
+
+    <string name="msg_something_is_wrong_title">Algo salió mal</string>
+    <string name="msg_something_is_wrong_description">Lo sentimos, se ha presentado un inconveniente. Por favor inténtalo nuevamente.</string>
+
+</resources>
